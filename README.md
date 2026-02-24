@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1165629486.svg)](https://doi.org/10.5281/zenodo.18757094)
+
 # HIL Calibration Benchmark
 
 A minimal **human-in-the-loop (HIL)** benchmark for calibrating thresholds / operating points for streaming risk alerts, with synthetic demo data (non-proprietary).
