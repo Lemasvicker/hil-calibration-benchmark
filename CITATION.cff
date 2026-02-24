@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "HIL Calibration Benchmark"
+authors:
+  - family-names: "Nlemadim"
+    given-names: "Victory"
+repository-code: "https://github.com/Lemasvicker/hil-calibration-benchmark"
+license: "Apache-2.0"
+abstract: "Human-in-the-loop benchmark for calibrating alert thresholds/operating points for streaming risk alerts, with synthetic demo data (non-proprietary)."
+keywords:
+  - "human-in-the-loop"
+  - "calibration"
+  - "alerting"
+  - "time series"
+  - "evaluation"
